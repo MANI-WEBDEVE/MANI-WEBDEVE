@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Muhammad Inam</h1>
 <h3 align="center">A passionate Full-stack developer from Pakistan</h3>
 
-<div class="w-[700px] flex items-center justify-center"> 
-    <img height="320" width='full' src="https://camo.githubusercontent.com/5119ee303e5e49cdf23def653b737bede0da49a859a34714d62d9ab518afbbb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" />
-  </div>
+<div style="display: flex; justify-content: center; align-items: center; height: 320px; width: 700px; margin: 0 auto;">
+  <img height="320" style="max-width: 100%; height: auto;" src="https://camo.githubusercontent.com/5119ee303e5e49cdf23def653b737bede0da49a859a34714d62d9ab518afbbb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" />
+</div>
+
 
 <p align="right">
 <img href="[file:///C:/Users/HP/Downloads/same%20me%20but%20different%20this%20time%20desktop%20wallpaper.png](https://raw.githubusercontent.com/MANI-WEBDEVE/React-Master-GitRepo/main/React-part5/Event-handlers/public/same%20me%20but%20different%20this%20time%20desktop%20wallpaper.png)"/>
