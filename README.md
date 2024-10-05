@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Inam</h1>
 <h3 align="center">A passionate Full-stack developer from Pakistan</h3>
 
-<div class="w-[700px]"> 
+<div class="w-[700px] flex items-center justify-center"> 
     <img height="320" width='full' src="https://camo.githubusercontent.com/5119ee303e5e49cdf23def653b737bede0da49a859a34714d62d9ab518afbbb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" />
   </div>
 
