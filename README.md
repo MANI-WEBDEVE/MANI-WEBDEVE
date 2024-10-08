@@ -14,7 +14,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mani-webdeve" alt="mani-webdeve" /></a> </p>
 
-- 🔭 I’m currently working on [CHAT APPLICATION](https://github.com/MANI-WEBDEVE/Chat-Application-Project)
+- 🔭 I’m currently working on [FUNDING APPLICATION](https://github.com/MANI-WEBDEVE/Funding-Application)
 
 - 🌱 I’m currently learning **Certified Cloud Applied Generative AI Engineer**
 
