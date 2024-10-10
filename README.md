@@ -3,7 +3,7 @@
 
 <div style="display: flex; justify-content: center; align-items: center; height: 350px; width: 950px; margin: 0 15px;">
   <img  height="550" style="max-width: 100%; height: auto;" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
-</div>
+</div>   
  
 <!-- https://camo.githubusercontent.com/5119ee303e5e49cdf23def653b737bede0da49a859a34714d62d9ab518afbbb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966 -->
 <p align="right">
