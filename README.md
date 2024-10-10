@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Inam</h1>
 <h3 align="center">A passionate Full-stack developer from Pakistan✨</h3>
-
+   
 <div style="display: flex; justify-content: center; align-items: center; height: 350px; width: 950px; margin: 0 15px;">
   <img  height="550" style="max-width: 100%; height: auto;" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 </div>   
