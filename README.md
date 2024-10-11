@@ -1,18 +1,22 @@
 <h1 align="center">Hi 👋, I'm Muhammad Inam</h1>
 <h3 align="center">A passionate Full-stack developer from Pakistan✨</h3>
 
-<div style="display: flex; align-items: center;">
-  <!-- Image -->
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="GIF" height="350" style="max-width: 100%; margin-right: 20px;" />
-
-  <!-- Content beside the image -->
-  <div>
-    - 🔭 I’m currently working on [FUNDING APPLICATION](https://github.com/MANI-WEBDEVE/Funding-Application) <br/>
-    - 🌱 I’m currently learning **Certified Cloud Applied Generative AI Engineer** <br/>
-    - 📝 I regularly write articles on [https://medium.com/@nudmaufon/about](https://medium.com/@nudmaufon/about) <br/>
-    - 📫 How to reach me: **kareeminam2@gmail.com**
-  </div>
-</div>
+<table>
+  <tr>
+    <!-- Image -->
+    <td>
+      <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="GIF" height="250" style="max-width: 100%;" />
+    </td>
+    
+    <!-- Content beside the image -->
+    <td>
+      - 🔭 I’m currently working on [FUNDING APPLICATION](https://github.com/MANI-WEBDEVE/Funding-Application) <br/>
+      - 🌱 I’m currently learning **Certified Cloud Applied Generative AI Engineer** <br/>
+      - 📝 I regularly write articles on [https://medium.com/@nudmaufon/about](https://medium.com/@nudmaufon/about) <br/>
+      - 📫 How to reach me: **kareeminam2@gmail.com**
+    </td>
+  </tr>
+</table>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=mani-webdeve&label=Profile%20views&color=0e75b6&style=flat" alt="mani-webdeve" />
