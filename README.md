@@ -6,12 +6,12 @@
   <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="GIF" height="250" style="margin-right: 20px;"/>
   
   <!-- Right Side: Content -->
-  <div>
+ 
     - 🔭 I’m currently working on [FUNDING APPLICATION](https://github.com/MANI-WEBDEVE/Funding-Application) <br/>
     - 🌱 I’m currently learning **Certified Cloud Applied Generative AI Engineer** <br/>
     - 📝 I regularly write articles on [https://medium.com/@nudmaufon/about](https://medium.com/@nudmaufon/about) <br/>
     - 📫 How to reach me: **kareeminam2@gmail.com**
-  </div>
+ 
 </div>
 
 <p align="left"> 
