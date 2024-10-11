@@ -12,13 +12,13 @@
 
 <p align="center">
   <a href="https://dev.to/maniwebdeve" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="MuhammadInam" height="30" width="40">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="MuhammadInam" height="40" width="40">
   </a>
   <a href="https://www.linkedin.com/in/muhammad-inam-6245b82a0/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="MuhammadInam" height="30" width="40">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="MuhammadInam" height="40" width="40">
   </a>
   <a href="https://x.com/InamKhan132207" target="blank">
-  <img align="center" src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?size=626&ext=jpg" alt="MuhammadInam" height="30" width="40">
+  <img align="center" src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?size=626&ext=jpg" alt="MuhammadInam" height="40" width="40">
 </a>
 </p>
 
@@ -48,7 +48,7 @@
   <br>
   <br>
   <img src="https://cdn.worldvectorlogo.com/logos/c.svg" height="40" width="52" alt="jwt logo">
-   <img src="https://camo.githubusercontent.com/eb8fe4cb55d1fcce9611e954824668d12e2b13b384943c82efb100d0717266e5/68747470733a2f2f676c6f62616c2e646973636f757273652d63646e2e636f6d2f666c65783033352f75706c6f6164732f74687265656a732f6f7074696d697a65642f32582f652f653466383664323230306432643335633330663762313439346539366239353935656263323735315f325f343936783530302e706e67" height="40" width="52" alt="three">
+   <img src="https://camo.githubusercontent.com/eb8fe4cb55d1fcce9611e954824668d12e2b13b384943c82efb100d0717266e5/68747470733a2f2f676c6f62616c2e646973636f757273652d63646e2e636f6d2f666c65783033352f75706c6f6164732f74687265656a732f6f7074696d697a65642f32582f652f653466383664323230306432643335633330663762313439346539366239353935656263323735315f325f343936783530302e706e67" height="52" width="52" alt="three">
 </div>
 
 <h3 id=""></h3>
