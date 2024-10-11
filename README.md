@@ -1,16 +1,18 @@
 <h1 align="center">Hi 👋, I'm Muhammad Inam</h1>
 <h3 align="center">A passionate Full-stack developer from Pakistan✨</h3>
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; justify-content: space-between">
   <!-- Left Side: Image -->
   <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="GIF" height="250" style="margin-right: 20px;"/>
   
   <!-- Right Side: Content -->
- 
+   <div>
+     
     - 🔭 I’m currently working on [FUNDING APPLICATION](https://github.com/MANI-WEBDEVE/Funding-Application) <br/>
     - 🌱 I’m currently learning **Certified Cloud Applied Generative AI Engineer** <br/>
     - 📝 I regularly write articles on [https://medium.com/@nudmaufon/about](https://medium.com/@nudmaufon/about) <br/>
     - 📫 How to reach me: **kareeminam2@gmail.com**
+   </div>
  
 </div>
 
