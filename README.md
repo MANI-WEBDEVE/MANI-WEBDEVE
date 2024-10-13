@@ -5,7 +5,7 @@
 </p>
 
 <div align="center">
-  <h2 id="mailbox-connect-with-me">mailbox: Connect with Me<br></h2>
+  <h2 id="mailbox-connect-with-me">Mailbox: Connect with Me<br></h2> 
 </div>
 
 <br>
@@ -23,7 +23,7 @@
 </p>
 
 <div align="center">
-  <h2 id="computer-technologies-and-tools-that-i-know">computer: Technologies and Tools that I know</h2>
+  <h2 id="computer-technologies-and-tools-that-i-know">Computer: Technologies and Tools that I know</h2>
   <br>
   <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo">
