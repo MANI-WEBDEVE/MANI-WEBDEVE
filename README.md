@@ -15,7 +15,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="MuhammadInam" height="40" width="40">
   </a>
   <a href="https://www.linkedin.com/in/muhammad-inam-6245b82a0/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="MuhammadInam" height="40" width="40">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="MuhammadInam" height="40" width="40">    
   </a>
   <a href="https://x.com/InamKhan132207" target="blank">
   <img align="center" src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?size=626&ext=jpg" alt="MuhammadInam" height="40" width="40">
