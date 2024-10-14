@@ -5,7 +5,7 @@
 </p>
 
 <div align="center">
-  <h2 id="mailbox-connect-with-me">Mailbox: Connect with Me<br></h2> 
+  <h2 id="mailbox-connect-with-me">Mailbox: Connect with Me<br></h2>     
 </div>
 
 <br>  
