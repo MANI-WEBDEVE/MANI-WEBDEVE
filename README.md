@@ -2,7 +2,7 @@
   <a href="https://github.com/MANI-WEBDEVE">
     <img src="https://readme-typing-svg.demolab.com? font=Fira+Code&amp;duration=6000&amp;pause=1000&amp;color=2AA889&amp;center=true&amp;vCenter=true&amp;width=435&amp;lines=Hi+There%2C+I'm+Muhammad+Inam%F0%9F%91%8B;A+Self-motivated+Tech+Enthusiast;Always+Learning+New+Technologies;Love+to+Travel+and+Read+Articals" alt="Typing SVG">       
   </a>          
-</p>       
+</p>         
        
 <div align="center">         
   <h2 id="mailbox-connect-with-me">Mailbox: Connect with Me<br></h2>            
