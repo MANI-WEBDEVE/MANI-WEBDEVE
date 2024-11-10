@@ -6,11 +6,11 @@
                                  
 <div align="center">                     
   <h2 id="mailbox-connect-with-me">Mailbox: Connect with Me<br></h2>                
-</div>         
+</div>           
 
 <br>  
           
-<p align="center">   
+<p align="center">      
   <a href="https://dev.to/maniwebdeve" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="MuhammadInam" height="40" width="40">
   </a>                              
