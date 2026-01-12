@@ -4,9 +4,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Inam</h1>
 <h3 align="center">AI Builder • ML Learner • Full-Stack Developer from Pakistan</h3>
 
-<tool_call>
-{"name": "search_image", "arguments": {"prompt": "Profile views"}}
-</tool_call>
+
 
 ---
 
@@ -43,14 +41,6 @@
 - ✅ Experimenting with **knowledge bases**: When to use vector DBs vs direct LLM context?  
 - ✅ Building a **Next.js + Python backend** fully containerized with Docker for AI services
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" />
-</p>
 
 ---
 
