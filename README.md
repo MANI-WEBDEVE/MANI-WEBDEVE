@@ -1,7 +1,7 @@
 <!-- Replace "yourusername" with your actual GitHub username -->
 <!-- This README will appear on your GitHub profile! -->
 
-<h1 align="center">Hi 👋, I'm Muhammad Inam</h1> 
+<h1 align="center">Hi 👋, I'm Muhammad Inam</h1>   
 <h3 align="center">AI Builder • ML Learner • Full-Stack Developer from Pakistan</h3>
    
 
